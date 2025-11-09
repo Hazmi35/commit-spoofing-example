@@ -1,0 +1,36 @@
+di hamparan hitam terminal
+aku menulis mantra—
+sudo pacman -Syu
+dan dunia pun tumbuh, baris demi baris
+
+angin mengetuk jendela kernel
+sambil berbisik,
+“keep it simple,” katanya
+dan aku tahu, ini bukan sekadar distro—
+ini filosofi hidup
+
+setiap crash, setiap segfault
+adalah ujian cinta
+karena Arch tak memberi kemudahan,
+ia memberi kendali
+
+aku merakitnya
+bukan untuk sombong,
+tapi untuk merasa hidup
+karena di sini,
+setiap piksel diatur dengan tangan sendiri
+
+rolling release, seperti waktu
+tak pernah selesai, hanya terus bergerak
+dan di tengah perubahan itu
+aku menemukan ketenangan
+—bahwa keindahan,
+kadang hadir dari sesuatu yang
+tak pernah “stabil”
+
+Arch bukan cuma OS
+ia altar kesederhanaan
+dan juga kegilaan
+tempat di mana aku
+belajar berdamai
+dengan kebebasan.
